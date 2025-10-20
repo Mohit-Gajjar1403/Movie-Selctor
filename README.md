@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Movie-Selector
-A Movie Selector App implemented using MERN
-=======
 # Movie Selector App
 
 A full-stack MERN application for selecting and exploring movies.
