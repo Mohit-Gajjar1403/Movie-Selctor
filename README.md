@@ -1,2 +1,2 @@
-# Movie-Selctor
-A Movie Selector App implemented using MERN.
+# Movie-Selector
+A Movie Selector App implemented using MERN
