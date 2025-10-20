@@ -108,5 +108,3 @@ npm start
 * Follow `.env.example` for proper environment variable setup.
 
 ---
-
->>>>>>> bb5b42a191b18ec040265667a69d5f44a61afc3a
