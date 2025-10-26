@@ -16,7 +16,7 @@ A full-stack MERN application for selecting and exploring movies.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Movie-Selector.git
+git clone https://github.com/Mohit-Gajjar1403/Movie-Selector.git
 cd Movie-Selector
 ````
 
